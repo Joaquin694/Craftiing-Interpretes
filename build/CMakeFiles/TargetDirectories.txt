@@ -1,0 +1,3 @@
+/home/joaquin/Desktop/JOAQUIN-PROYECTOS/Proyectos-C/Craft-Interpretes/build/CMakeFiles/clox.dir
+/home/joaquin/Desktop/JOAQUIN-PROYECTOS/Proyectos-C/Craft-Interpretes/build/CMakeFiles/edit_cache.dir
+/home/joaquin/Desktop/JOAQUIN-PROYECTOS/Proyectos-C/Craft-Interpretes/build/CMakeFiles/rebuild_cache.dir
